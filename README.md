@@ -9,7 +9,7 @@ Built with the Next.js App Router, TypeScript & Tailwind
  - Infinite scrolling for dynamically loading posts
  - Authentication using NextAuth & Google
  - Custom feed for authenticated users
- - Advanced caching using [Upstash Redis](https://upstash.com/?utm_source=Josh2)
+ - Advanced caching using [Upstash Redis]
  - Optimistic updates for a great user experience
  - Modern data fetching using React-Query
  - A beautiful and highly functional post editor
@@ -23,7 +23,7 @@ Built with the Next.js App Router, TypeScript & Tailwind
 To get started with this project, run
 
 ```bash
-  git clone -b starter-code https://github.com/joschan21/breadit.git
+  git clone -b starter-code https://github.com/lucaszebre/reddit.git
 ```
 
 and copy these .env.example variables into a separate .env file:
@@ -72,8 +72,6 @@ and that's all you need to get started!
 
 ## Acknowledgements
 
-- [Upstash Redis](https://upstash.com/?utm_source=Josh2) for making this possible
-- [Code with Antonio](https://www.youtube.com/@codewithantonio) for thumbnail design inspiration
 - Shadcn's [Taxonomy respository](https://github.com/shadcn/taxonomy) for showcasing the post editor
 
 ## License
