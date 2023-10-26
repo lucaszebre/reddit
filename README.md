@@ -1,5 +1,5 @@
 
-# Breadit - A Modern Fullstack Reddit Clone 
+#  A Modern Fullstack Reddit Clone 
 
 Built with the Next.js App Router, TypeScript & Tailwind css
 
